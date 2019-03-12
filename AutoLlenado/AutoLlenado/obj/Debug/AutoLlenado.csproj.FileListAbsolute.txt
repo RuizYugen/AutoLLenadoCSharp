@@ -1,0 +1,5 @@
+C:\Users\RuizPc\documents\visual studio 2015\Projects\AutoLlenado\AutoLlenado\bin\Debug\AutoLlenado.exe
+C:\Users\RuizPc\documents\visual studio 2015\Projects\AutoLlenado\AutoLlenado\bin\Debug\AutoLlenado.pdb
+C:\Users\RuizPc\documents\visual studio 2015\Projects\AutoLlenado\AutoLlenado\obj\Debug\AutoLlenado.exe
+C:\Users\RuizPc\documents\visual studio 2015\Projects\AutoLlenado\AutoLlenado\obj\Debug\AutoLlenado.pdb
+C:\Users\RuizPc\documents\visual studio 2015\Projects\AutoLlenado\AutoLlenado\obj\Debug\AutoLlenado.csprojResolveAssemblyReference.cache
